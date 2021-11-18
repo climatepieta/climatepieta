@@ -1,0 +1,115 @@
+/* screen - home */
+
+.home {
+  align-items: flex-start;
+  display: flex;
+
+  overflow: hidden;
+ 
+}
+
+.home .overlap-group {
+  align-items: center;
+ 
+  display: flex;
+  flex-direction: column;
+  
+  padding: 44px 252px;
+ height: auto; 
+
+}
+
+.home .text-1 {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-weight: 200;
+  letter-spacing: 2.80px;
+  line-height: 28px;
+  margin-right: 84.0px;
+  margin-top: 124px;
+  min-height: 43px;
+  min-width: 538px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .title {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-l);
+  font-weight: 200;
+  letter-spacing: 7.20px;
+  line-height: 72px;
+  margin-right: 84.0px;
+  margin-top: 9px;
+  min-height: 109px;
+  min-width: 452px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .group-69 {
+  cursor: pointer;
+  height: 74px;
+  margin-right: 34.0px;
+  margin-top: 55px;
+  object-fit: cover;
+  transition: all 1s ease;
+  width: 73px;
+}
+
+.home .group-69:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.home .place {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-weight: 200;
+  letter-spacing: 2.80px;
+  line-height: 28px;
+  margin-right: 32.0px;
+  margin-top: 35px;
+  min-height: 43px;
+  min-width: 62px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 26px;
+  min-width: 839px;
+}
+
+.home .text-2 {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  min-height: 26px;
+  min-width: 330px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home .text-3 {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  letter-spacing: 1.60px;
+  line-height: 16px;
+  margin-left: 343px;
+  min-height: 26px;
+  min-width: 166px;
+  text-align: center;
+  white-space: nowrap;
+}

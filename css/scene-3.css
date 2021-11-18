@@ -1,0 +1,140 @@
+/* screen - scene-3 */
+
+.scene-3 {
+  align-items: flex-end;
+  background-color: var(--big-stone);
+  display: flex;
+  flex-direction: column;
+  height: 768px;
+  padding: 123.5px 188.0px;
+  width: 1366px;
+}
+
+.scene-3 .overlap-group5 {
+  height: 282px;
+  position: relative;
+  width: 830px;
+}
+
+.scene-3 .text-5 {
+  cursor: pointer;
+  left: 45px;
+  letter-spacing: 4.20px;
+  line-height: 28px;
+  position: absolute;
+  top: 0;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.scene-3 .text-5:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.scene-3 .overlap-group4 {
+  height: 82px;
+  left: 0;
+  position: absolute;
+  top: 200px;
+  width: 656px;
+}
+
+.scene-3 .group-29 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 620px;
+  min-width: 37px;
+  position: absolute;
+  top: 0;
+}
+
+.scene-3 .overlap-group {
+  height: 44px;
+  margin-left: -2px;
+  margin-top: -1.82px;
+  position: relative;
+  width: 16px;
+}
+
+.scene-3 .path-2 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.scene-3 .path-2-1 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 16px;
+}
+
+.scene-3 .overlap-group-1 {
+  height: 44px;
+  margin-left: 8px;
+  margin-top: -1.82px;
+  position: relative;
+  width: 16px;
+}
+
+.scene-3 .rectangle-1 {
+  border-radius: 56px;
+  height: 62px;
+  left: 114px;
+  position: absolute;
+  top: 20px;
+  width: 427px;
+}
+
+.scene-3 .line-1 {
+  height: 3px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  width: 586px;
+}
+
+.scene-3 .group-28 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  left: 0;
+  min-width: 37px;
+  position: absolute;
+  top: 0;
+}
+
+.scene-3 .hello {
+  background-color: transparent;
+  border: 0;
+  height: 38px;
+  left: 165px;
+  letter-spacing: 2.40px;
+  line-height: 24px;
+  padding: 0;
+  position: absolute;
+  text-align: center;
+  top: 233px;
+  width: 331px;
+}
+
+.scene-3 .hello::placeholder {
+  color: #ffffff99;
+}
+
+.scene-3 .flower1 {
+  align-self: center;
+  cursor: pointer;
+  height: 83px;
+  margin-right: 1.87px;
+  margin-top: 33px;
+  object-fit: cover;
+  width: 83px;
+}

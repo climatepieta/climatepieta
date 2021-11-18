@@ -1,0 +1,68 @@
+/* screen - image-5 */
+
+.image-5 {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.image-5 .flower1 {
+  height: 344px;
+  margin-left: -122px;
+  margin-top: -102.74px;
+  object-fit: cover;
+  width: 340px;
+}
+
+.image-5 .whats-app-image-4-at-065557jpeg {
+  height: 415px;
+  margin-left: 7px;
+  margin-top: 176.5px;
+  object-fit: cover;
+  width: 415px;
+}
+
+.image-5 .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 125px;
+  margin-top: 228.79px;
+  min-height: 303px;
+  width: 427px;
+}
+
+.image-5 .overlap-group {
+  align-items: flex-start;
+  border-radius: 56px;
+  display: flex;
+  height: 196px;
+  min-width: 427px;
+  padding: 20.6px 38.7px;
+}
+
+.image-5 .this-image-makes-me-feel {
+  background-color: transparent;
+  border: 0;
+  height: 145px;
+  letter-spacing: 2.40px;
+  line-height: 24px;
+  padding: 0;
+  width: 344px;
+}
+
+.image-5 .this-image-makes-me-feel::placeholder {
+  color: #ffffff99;
+}
+
+.image-5 .flower1-1 {
+  cursor: pointer;
+  height: 83px;
+  margin-right: 29.37px;
+  margin-top: 23px;
+  object-fit: cover;
+  width: 83px;
+}

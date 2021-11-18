@@ -1,0 +1,257 @@
+/* screen - gallery */
+
+.gallery {
+  align-items: flex-start;
+  background-color: var(--big-stone);
+  display: flex;
+  height: 768px;
+  overflow: hidden;
+  width: 1366px;
+}
+
+.gallery .flower1 {
+  height: 344px;
+  margin-left: -122px;
+  margin-top: -102.74px;
+  object-fit: cover;
+  width: 340px;
+}
+
+.gallery .overlap-group2 {
+  height: 214px;
+  margin-left: 910px;
+  margin-top: 554.33px;
+  position: relative;
+  width: 215px;
+}
+
+.gallery .overlap-group {
+  height: 162px;
+  left: 0;
+  position: absolute;
+  top: 53px;
+  width: 110px;
+}
+
+.gallery .path-11 {
+  height: 43px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 79px;
+  width: 41px;
+}
+
+.gallery .group-19 {
+  display: flex;
+  height: 39px;
+  left: 69px;
+  position: absolute;
+  top: 81px;
+  transform: rotate(90deg);
+  width: 39px;
+}
+
+.gallery .path-12 {
+  flex: 1;
+  margin-bottom: -1.6px;
+  margin-left: -1.5px;
+  margin-right: -1.6px;
+  margin-top: -1.7px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 42.03px;
+}
+
+.gallery .group-20 {
+  display: flex;
+  height: 21px;
+  left: 19px;
+  position: absolute;
+  top: 84px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .path-1 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 19.2px;
+}
+
+.gallery .group-21 {
+  display: flex;
+  height: 21px;
+  left: 9px;
+  position: absolute;
+  top: 62px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .group-22 {
+  display: flex;
+  height: 21px;
+  left: 28px;
+  position: absolute;
+  top: 62px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .group-23 {
+  display: flex;
+  height: 21px;
+  left: 38px;
+  position: absolute;
+  top: 42px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .group-25 {
+  display: flex;
+  height: 21px;
+  left: 0;
+  position: absolute;
+  top: 42px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .path-19 {
+  height: 162px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 83px;
+}
+
+.gallery .group-24 {
+  display: flex;
+  height: 21px;
+  left: 19px;
+  position: absolute;
+  top: 42px;
+  transform: rotate(180deg);
+  width: 19px;
+}
+
+.gallery .overlap-group1 {
+  height: 217px;
+  left: 107px;
+  position: absolute;
+  top: -2px;
+  width: 108px;
+}
+
+.gallery .path-11-1 {
+  height: 43px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 115px;
+  width: 41px;
+}
+
+.gallery .group-19-1 {
+  display: flex;
+  height: 39px;
+  left: 2px;
+  position: absolute;
+  top: 117px;
+  transform: rotate(90deg);
+  width: 39px;
+}
+
+.gallery .path-12-1 {
+  flex: 1;
+  margin-bottom: -1.7px;
+  margin-left: -1.5px;
+  margin-right: -1.6px;
+  margin-top: -1.6px;
+  object-fit: cover;
+  transform: rotate(-90deg);
+  width: 42.03px;
+}
+
+.gallery .group-20-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 73px;
+  position: absolute;
+  top: 95px;
+  width: 18px;
+}
+
+.gallery .group-21-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 81px;
+  position: absolute;
+  top: 75px;
+  width: 18px;
+}
+
+.gallery .group-22-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 64px;
+  position: absolute;
+  top: 75px;
+  width: 18px;
+}
+
+.gallery .group-23-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 55px;
+  position: absolute;
+  top: 55px;
+  width: 18px;
+}
+
+.gallery .group-25-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 90px;
+  position: absolute;
+  top: 55px;
+  width: 18px;
+}
+
+.gallery .path-19-1 {
+  height: 217px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 83px;
+}
+
+.gallery .group-24-1 {
+  background-image: url(../img/path-13-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  left: 72px;
+  position: absolute;
+  top: 55px;
+  width: 18px;
+}
