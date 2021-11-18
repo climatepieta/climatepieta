@@ -1,0 +1,40 @@
+:root { 
+  --big-stone: #152238;
+  --cararra: #ebebeb;
+  --sea-serpent: #4bd1ec;
+  --white: #ffffff;
+ 
+  --font-size-l: 72px;
+  --font-size-m: 28px;
+  --font-size-s: 24px;
+  --font-size-xs: 16px;
+ 
+  --font-family-oswald: "Oswald", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+
+body {
+ 
+	height: 100%;
+}
+
+
+.oswald-extra-light-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.oswald-extra-light-cararra-28px {
+  color: var(--cararra);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 200;
+}
+
+.border-3px-sea-serpent {
+  border: 3px solid var(--sea-serpent);
+}
